@@ -39,3 +39,10 @@ hn <- hist(Nile)
 str(hn)
 
 
+
+# Creating data  frames
+
+d <- data.frame(list(kids=c("Jack", "Bill"), ages=c(44, 100)))
+print(d)
+
+
